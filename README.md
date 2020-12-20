@@ -9,27 +9,26 @@ To customize this file or creted another mobile mockup with Axure you will need 
 ### Screens flow
 
 <img src="/screenshots/ev8.png" style="text-align:center" >
-
+<br/>
 
 ### Others
-<img src="/screenshots/ev1.png" style="display:block; text-align:center;" width="200">
+<img src="/screenshots/ev1.png" style="display:block; text-align:center;" width="480">
+<br/>
 
+<img src="/screenshots/ev2.png" style="display:block; text-align:center;" width="480">
+<br/>
 
-![ScreenShot](/screenshots/ev2.png)
+<img src="/screenshots/ev3.png" style="display:block; text-align:center;" width="480">
+<br/>
 
+<img src="/screenshots/ev4.png" style="display:block; text-align:center;" width="480">
+<br/>
 
-![ScreenShot](/screenshots/ev3.png)
+<img src="/screenshots/ev5.png" style="display:block; text-align:center;" width="480">
+<br/>
 
+<img src="/screenshots/ev6.png" style="display:block; text-align:center;" width="480">
+<br/>
 
-![ScreenShot](/screenshots/ev4.png)
-
-
-![ScreenShot](/screenshots/ev5.png)
-
-
-![ScreenShot](/screenshots/ev6.png)
-
-
-![ScreenShot](/screenshots/ev7.png)
-
-
+<img src="/screenshots/ev7.png" style="display:block; text-align:center;" width="480">
+<br/>
