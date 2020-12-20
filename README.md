@@ -4,13 +4,15 @@ This is a mobile app mockup designed with Axure. When I created this project the
 
 To customize this file or creted another mobile mockup with Axure you will need some plugins, some free, some not. Just search around
 
-## Screenshot
+## Screenshots
+
+### Screens flow
+
+<img src="/screenshots/ev8.png" style="text-align:center" >
 
 
-![ScreenShot](/screenshots/ev8.png)
-
-
-![ScreenShot](/screenshots/ev1.png)
+### Others
+<img src="/screenshots/ev1.png" style="text-align:center" width="480" >
 
 
 ![ScreenShot](/screenshots/ev2.png)
