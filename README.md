@@ -11,7 +11,7 @@ To customize this file or creted another mobile mockup with Axure you will need 
 <img src="/screenshots/ev8.png" style="text-align:center" >
 <br/>
 
-### Others
+### Details
 <img src="/screenshots/ev1.png" style="display:block; text-align:center;" width="480">
 <br/>
 
