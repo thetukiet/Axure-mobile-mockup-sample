@@ -1,6 +1,6 @@
 # Axure-mobile-mockup-sample
 
-This is a mobile app mockup designed with Axure. When I created this project there was not so much resource about Axure on internet, not easy like Sketch or InvisionApp. So I device to share it. This Axure project file may helps someone needs. 
+This is a mobile app mockup designed with Axure. When I created this project there was not so much resource about Axure on internet, not easy like Sketch or InvisionApp. So I decice to share it. This Axure project file may helps someone needs. 
 
 To customize this file or creted another mobile mockup with Axure you will need some plugins, some free, some not. Just search around
 
