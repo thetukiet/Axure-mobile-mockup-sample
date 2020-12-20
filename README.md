@@ -12,7 +12,7 @@ To customize this file or creted another mobile mockup with Axure you will need 
 
 
 ### Others
-<img src="/screenshots/ev1.png" style="text-align:center" width="480" >
+<img src="/screenshots/ev1.png" style="display:block; text-align:center;" width="200">
 
 
 ![ScreenShot](/screenshots/ev2.png)
