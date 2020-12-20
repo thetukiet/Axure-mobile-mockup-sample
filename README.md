@@ -6,20 +6,28 @@ To customize this file or creted another mobile mockup with Axure you will need 
 
 ## Screenshot
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev8.png
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev1.png
+![ScreenShot](/screenshots/ev8.png)
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev2.png
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev3.png
+![ScreenShot](/screenshots/ev1.png)
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev4.png
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev5.png
+![ScreenShot](/screenshots/ev2.png)
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev6.png
 
-https://github.com/thetukiet/Axure-mobile-mockup-sample/blob/main/screenshots/ev7.png
+![ScreenShot](/screenshots/ev3.png)
+
+
+![ScreenShot](/screenshots/ev4.png)
+
+
+![ScreenShot](/screenshots/ev5.png)
+
+
+![ScreenShot](/screenshots/ev6.png)
+
+
+![ScreenShot](/screenshots/ev7.png)
 
 
